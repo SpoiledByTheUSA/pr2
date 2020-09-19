@@ -1,7 +1,11 @@
 # pr2
+
 module 1
+
 Task: analysis of movie dataset
+
 Result: 27 of 27
+
 Other:
 1. Какой частью своей работы вы остались особенно довольны?
 multiple decisions
